@@ -1,0 +1,13 @@
+{
+  "name": "ayn-signage-player",
+  "version": "1.0.0",
+  "description": "AYN Signage Player Application",
+  "main": "player.js",
+  "scripts": {
+    "start": "node player.js"
+  },
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "node-machine-id": "^1.1.12"
+  }
+}
